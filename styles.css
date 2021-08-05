@@ -1,0 +1,23 @@
+h1{
+    top: 0%;
+    outline: 3px solid red;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+.barChart {
+  display:flex;
+  outline: 3px solid red;
+  position: relative;
+  justify-content:center;
+  align-items:flex-end;
+  
+}
+
+.bar {
+    outline: 3px solid green;
+    width: 20px;
+    background-color: rgb(78, 143, 240);
+    margin: 5px;
+}
+
